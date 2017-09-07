@@ -56,8 +56,9 @@ try:
 
         # print everything out
         print('Your encrypted message is', new_message)
-        sleep(0.2)
+        sleep(0.8)
         print("And don't forget your key! (It's", key, "btw)")
+        sleep(0.4)
 
 # catch that keyboard interrupt
 except KeyboardInterrupt:
