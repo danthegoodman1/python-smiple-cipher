@@ -75,6 +75,7 @@ try:
     if check_enc == 1:
 
         print('Your encrypted message is:', new_message)
+        sleep(0.2)
         print("And don't forget your key! (It's", key, "btw)")
 
     elif check_enc == 0:
