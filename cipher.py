@@ -92,4 +92,4 @@ try:
 
 # catch that keyboard interrupt
 except KeyboardInterrupt:
-    print("Well, see ya later!")
+    print("\nWell, see ya later!")
